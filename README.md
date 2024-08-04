@@ -4,4 +4,4 @@ This project aims to build an image classification model using PyTorch that can 
 **Data Source**
 The dataset for this project is the Intel Image Classification Dataset, which can be found on Kaggle. It consists of natural scene images that are organized into six different categories. The dataset can be accessed and downloaded from the following link: https://www.kaggle.com/puneet6060/intel-image-classification
 
-**NOTE: Only a subset of the dataset was used for this training, remember to increase the amount of data as you like**
+**NOTE: Only a subset of the dataset was used for this training, remember to increase the amount of data as you like. Point the training and test folder path to the dataset path on your end**
